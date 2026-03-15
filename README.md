@@ -2,7 +2,7 @@
 
 ### mise install
 
-[miseでTypeScriptとBiomeを導入する](https://zenn.dev/knziiy/articles/fa32a6e6a3aa63)
+[参考: miseでTypeScriptとBiomeを導入する](https://zenn.dev/knziiy/articles/fa32a6e6a3aa63)
 
 ```sh
 mise install
@@ -13,4 +13,6 @@ mise install
 ```sh
 pnpm install
 pnpm dev
+
+pnpm lint:fix
 ```
